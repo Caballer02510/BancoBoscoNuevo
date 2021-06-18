@@ -18,7 +18,7 @@ import modelo.Utilidades;
 
 /**
  *
- * @author DAW-B
+ * @author SergioCaballeroSáez
  */
 public class servletBanco extends HttpServlet {
 ArrayList<String> lista;

@@ -7,7 +7,7 @@ package modelo;
 
 /**
  *
- * @author Javier
+ * @author SergioCaballeroSáez
  */
 public class Cuota {
     private int numeroCuota;

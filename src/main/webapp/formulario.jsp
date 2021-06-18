@@ -1,7 +1,7 @@
 <%-- 
     Document   : formulario
     Created on : 2 jun. 2021, 11:09:04
-    Author     : Javier
+    Author     : SergioCaballeroSáez
 --%>
 
 <%@page import="modelo.Cuota"%>
@@ -60,7 +60,7 @@
 
 
 
-        <table class="table" style="border: solid;">
+        <table class="table" style="border: 2px solid red;">
 
             <%if (cuotas != null) {%>
             <th>NºCuota</th>
